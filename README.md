@@ -1,5 +1,6 @@
 **Projeto IoT com Comunicação TCP/IP e MQTT**
 
+
 i) Descrição do Funcionamento e Uso:
 
 Este projeto é um sistema de monitoramento de temperatura e umidade que utiliza um microcontrolador ESP8266 conectado a um sensor DHT11. Os dados coletados são enviados para um servidor MQTT (Message Queuing Telemetry Transport) e podem ser acessados remotamente via internet.
